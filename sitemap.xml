@@ -1,32 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>http://www.flowersrentcar.com/data-paket-wisata/paket-wisata</loc>
+  <loc>https://flowersrentcar.com/</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://www.flowersrentcar.com/2018/11/01/malang/</loc>
-<lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  <loc>https://flowersrentcar.com/harga-sewa/</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://www.flowersrentcar.com/2018/11/02/batu/</loc>
-<lastmod>2018-11-02T00:00:00+00:00</lastmod>
+  <loc>https://flowersrentcar.com/paket-wisata/</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://www.flowersrentcar.com/blog/</loc>
+  <loc>https://flowersrentcar.com/gallery/</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://www.flowersrentcar.com/gallery/</loc>
+  <loc>https://flowersrentcar.com/blog/</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://www.flowersrentcar.com/harga-sewa/</loc>
+  <loc>https://flowersrentcar.com/data-paket-wisata/paket-wisata</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://www.flowersrentcar.com/</loc>
+  <loc>https://flowersrentcar.com/2018/11/02/batu/</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://www.flowersrentcar.com/paket-wisata/</loc>
+  <loc>https://flowersrentcar.com/2018/11/01/malang/</loc>
+  <lastmod>2019-05-18T16:40:59+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-<lastmod>2019-05-17T20:40:43+00:00</lastmod>
-</url>
+
+
 </urlset>
