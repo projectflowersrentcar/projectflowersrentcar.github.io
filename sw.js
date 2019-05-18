@@ -143,7 +143,7 @@ self.__precacheManifest = [
   },
   {
     "url": "feed.xml",
-    "revision": "f77fbc60dd8c046f533ec8506642b0e4"
+    "revision": "a96bd93d628f74f60010ea754562a4a9"
   },
   {
     "url": "gallery/index.html",
@@ -191,7 +191,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/5-kijang-innova.jpg",
-    "revision": "8f5c817099b08e2357a35ce5ccd8aa58"
+    "revision": "4d59a6c09be590ce7503e4c7ffed9a24"
   },
   {
     "url": "img/6-isuzu-elf.jpg",
@@ -199,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/Alphard-Transformer.jpg",
-    "revision": "8c0367b145ac6d8bac1dd46dc43fc9e5"
+    "revision": "0fea0cdc46a88eda732190a9492fcf30"
   },
   {
     "url": "img/automobile.png",
@@ -215,7 +215,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/Camri.jpg",
-    "revision": "56573ba5d057cce5192006617e4e8995"
+    "revision": "9fdad16cbdb88b7caaa1889748609f26"
   },
   {
     "url": "img/cash.png",
@@ -235,47 +235,47 @@ self.__precacheManifest = [
   },
   {
     "url": "img/Fortuner-VRZ.jpg",
-    "revision": "44255d691376f928c23944a94d88086f"
+    "revision": "c9382f3942aaf2ef07747a6f67d2b2b9"
   },
   {
     "url": "img/Fortuner.jpg",
-    "revision": "15f1e357dec8aea25e3ab80b786220ea"
+    "revision": "1b81ce27542036a069eb08d22e840652"
   },
   {
     "url": "img/gadis-inova-dalam.jpg",
-    "revision": "2ed81892c40fea90a31bb78b39b024cc"
+    "revision": "00b420b31e924fd7f5835c2d8e3fa1d6"
   },
   {
     "url": "img/gadis-inova.jpg",
-    "revision": "a2ec21f4a387d505f1c12c5a0f39b6ad"
+    "revision": "cdcdebcd5de6b4ab14f1c31eebf4aeef"
   },
   {
     "url": "img/gallery-1.jpg",
-    "revision": "5930c313bd8ddddc5e2dfa98e4f1fa44"
+    "revision": "47ea397a223cc5dc70b5d50547c430b2"
   },
   {
     "url": "img/gallery-2.jpg",
-    "revision": "c5ecd79abf1f5588373ca8deb2713478"
+    "revision": "92a6fe827f4b0d472276540e80aca998"
   },
   {
     "url": "img/gallery-3.jpg",
-    "revision": "c155775fa72f02b2c199c9014bc8db6c"
+    "revision": "acfe8e1988a7e5e5e2adfea8588cd241"
   },
   {
     "url": "img/gallery-4.jpg",
-    "revision": "39b972ed81932addfe2793e19d241e53"
+    "revision": "13908224c3f2b824535a8e08ca213ce7"
   },
   {
     "url": "img/gallery-5.jpg",
-    "revision": "36508e4fc6ca575fd31eb6a14781297b"
+    "revision": "70bbbbd858f0b04d5366b36441c13538"
   },
   {
     "url": "img/gallery-6.jpg",
-    "revision": "ea30348316c4156ef8a60a27f0eb7fb3"
+    "revision": "096a7d9828e6c704c8f9fbdac2c1802e"
   },
   {
     "url": "img/hiace.jpg",
-    "revision": "8c7dc58f1934676852a03a1b5616866b"
+    "revision": "935be183aa289b921c2e5399d16d5607"
   },
   {
     "url": "img/house.png",
@@ -310,8 +310,16 @@ self.__precacheManifest = [
     "revision": "ce0e9c7201c45feb21463a654ef4dffa"
   },
   {
+    "url": "img/intro-bg-asli.jpg",
+    "revision": "94df9e3cc9c88a356260a54e8994b410"
+  },
+  {
+    "url": "img/intro-bg-min.jpg",
+    "revision": "1438f704fe8f42020ea86a36bb400461"
+  },
+  {
     "url": "img/intro-bg.jpg",
-    "revision": "7849e7aff832b956ac7c9fda6c0a59ab"
+    "revision": "7b44847a4e6ddf73a0b22f5ff7744848"
   },
   {
     "url": "img/klikada-panjang.svg",
@@ -363,11 +371,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "fc2fe1c33e87b92ced2e3deaa25e3b98"
+    "revision": "6f9e4fc45d653b6eedcc2a1a503ad86b"
   },
   {
     "url": "install-service-worker.html",
-    "revision": "0ccb0b0d254f10cad94bb8ec9e8fae01"
+    "revision": "f7f3671fa3a6851b4f39935b6fd8969c"
   },
   {
     "url": "lib/font-awesome/css/font-awesome.css",
@@ -442,8 +450,8 @@ self.__precacheManifest = [
     "revision": "082c032d2b02e6e1ac23f43871220486"
   },
   {
-    "url": "sw.html",
-    "revision": "9ddb3c30045037e3f8d7c4c5810a4386"
+    "url": "workbox-config.js",
+    "revision": "e261b5c324e02d6e6ffe896d82ed96ac"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
