@@ -1,0 +1,36 @@
+---
+layout: price
+title: Harga Sewa Mobil Surabaya | Sewa Motor Surabaya | Paket Wisata
+photos: https://flowersrentcar.com/img/1-new-xenia.jpg
+---
+<section id="pricing" class="section-bg">
+    <div class="container">
+        <div class="section-header">
+            <h1 class="section-title">{{ site.section-5 }}</h1>
+            <span class="section-divider"></span>
+            <!-- <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
+        </div>
+        <div class="row">
+            {% for item in site.data-products %}
+            <div class="col-lg-4 col-md-6">
+                <div class="gallery-item wow fadeInUp">
+                    <amp-img class="gallery-popup" alt="{{ item.amp-img-alt }}" src="{{ item.amp-img-scr }}" width="{{ item.amp-img-width }}" height="{{ item.amp-img-height }}" layout="{{ item.amp-img-layout }}"></amp-img>
+                </div>
+                <div class="box wow fadeInLeft">
+                    <h3>{{ item.text-title }}</h3>
+                    <ul>
+                        <li><i class="ion-android-checkmark-circle"></i>{{ item.list-1 }}</li>
+                        <li><i class="ion-android-checkmark-circle"></i>{{ item.list-2 }}</li>
+                        <li><i class="ion-android-checkmark-circle"></i>{{ item.list-3 }}</li>
+                        <li><i class="ion-android-checkmark-circle"></i>{{ item.list-4 }}</li>
+                    </ul>
+                    <a href="https://api.whatsapp.com/send?text=Mau%20Rental%20Mobil%20{{ item.text-title }}%20(Nama)%20(Alamat%20Lengkap)%20&phone={{ site.telephone }}" class="get-started-btn">Pesan</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    </div>
+</section>
+{% include contact.html %}
+</main>
